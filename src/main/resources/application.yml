@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: aircraft-env-limitations
+
+environmental:
+  limitations:
+    file: "temperature_deviation.csv"
